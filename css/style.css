@@ -54,7 +54,7 @@ nav.links{
     text-align: center;
 }
 
-/* selecteert alle a-elementen in de nav met de klasse links
+/* selecteer alle a-elementen in de nav met de klasse links
 Gebruik hiervoor de combinatieselector: Algemene afstamming: spatie. (Zie pagina 220)
  */
  nav.links a{
