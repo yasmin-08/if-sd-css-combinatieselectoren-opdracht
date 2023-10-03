@@ -1,33 +1,34 @@
 # Opdracht combinatie selectors
+1. bekijk het CSS bestand en voeg bij iedere regel commentaar de juiste css toe.
 
 2. Selecteer alle HTML-elementen en reset de tussen ruimtes naar 0
 
 3. Selecteer de body element en geef het de achtergrond kleur aliceblue
 zie typeselector op Pagina 211
 
-4. Selecter de header element welke direct onder de body zit met een kindselector 
+1. Selecter de header element welke direct onder de body zit met een kindselector 
 geef het de achtergrond kleur darkgoldenrod en als text-kleur wheat 
 geef de header een padding van 10px
 
-5. Selecteer de h1-element en verander de lettertype naar monospace
+1. Selecteer de h1-element en verander de lettertype naar monospace
 verander óók lettergrootte met font-size
 
-6. Selecteer headings h2 t/m h6 en geef het de lettertype monospace;
+1. Selecteer headings h2 t/m h6 en geef het de lettertype monospace;
 
-7. selecteer alle P-elementen en geef het de lettertype segoe UI 
+2. selecteer alle P-elementen en geef het de lettertype segoe UI 
 
-8. Selecteer alle headings, paragraven en article's
+3. Selecteer alle headings, paragraven en article's
 (zie pagina 220)
 
-9. Selecteer de nav-element met de klasse links en voeg daar de volgende 
+1. Selecteer de nav-element met de klasse links en voeg daar de volgende 
 css aan toe 
     border:2px solid black;
     text-align: center;
 
-10. Selecteer alle a-elementen in de nav met de klasse links
+1.  Selecteer alle a-elementen in de nav met de klasse links
 Gebruik hiervoor de combinatieselector: Algemene afstamming: spatie. (Zie pagina 220)
 
-11. Selecteer alle headers in een article. geef het een breedte van 400px, een rechter border van 100px solid green, en een border-radius van 50%
+1.  Selecteer alle headers in een article. geef het een breedte van 400px, een rechter border van 100px solid green, en een border-radius van 50%
 Zie kindselector (pagina 221)
 
 
