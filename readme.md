@@ -41,10 +41,10 @@ Zie kindselector (pagina 221)
 (zie attribuutselector op p214)
 
 9.  Selecteer alle even list-items en maak de achtergrond kleur lichtgrijs 
-Gebruik daarvoor een pseudoklassen (zie pagian 218)
+Gebruik daarvoor een pseudoklassen (zie pagina 218)
 
 10.  Selecteer alle oneven list-items en maak de achtergrond kleur nog lichter grijs
-Gebruik daarvoor een pseudoklassen (zie pagian 218)
+Gebruik daarvoor een pseudoklassen (zie pagina 218)
 
 11.  Selecteer de allereerste article en centreer de tekst
 
